@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C1air3
 - 👀 I’m interested in malware techniques and reverse engineering
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Memory forensics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :claireliujx@gmail.com
 
