@@ -2,7 +2,7 @@
 - 👀 I’m interested in malware techniques and reverse engineering
 - 🌱 I’m currently learning Memory forensics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :
+- 📫 How to reach me : claireliujx@gmail.com
 
 <!---
 C1air3/C1air3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
